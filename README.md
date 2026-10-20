@@ -1,10 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hola,%20soy%20Boris%20👋&fontSize=70&animation=fadeIn&desc=Desarrollador%20Full%20Stack%20%7C%20Laravel%20%7C%20Flutter%20%7C%20Vue&descSize=24&descAlignY=80" />
 </p>
-<p align="center">
-  <a href="https://historia-sepia-one.vercel.app/" target="blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=120&section=header&text=❤❤JUGAR%20AHORA🎮&fontSize=34&fontColor=FFFFFF&animation=twinkling" alt="🎁 JUGAR AHORA 🎮" />  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kredensir&label=PERFIL+VISTO&color=0E86D4&style=for-the-badge" alt="kredensir" />
